@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf(" Wie gehts jetzt weiter \n");
+	printf(" Kommt der jetzt wenigstens durch ? \n");
 return 0;
 }
  
