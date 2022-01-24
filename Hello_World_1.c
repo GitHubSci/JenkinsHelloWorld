@@ -6,6 +6,7 @@ int main(void)
 	printf(" klappt der Rückweg ? \n");
 	printf(" Ja - hat geklappt !! \n");
 	printf(" ... Super und gut... !! \n");	
+	printf(" ... naja... !! \n");	
 return 0;
 }
  
