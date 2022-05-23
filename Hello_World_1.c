@@ -8,6 +8,7 @@ int main(void)
 	printf(" ... Super und gut... !! \n");	
 	printf(" ... naja... !! \n");	
 	printf(" ... dann ein neuer Versuch... !! \n");	
+	printf(" ... was passiert denn jetzt .. ? \n");
 return 0;
 }
  
