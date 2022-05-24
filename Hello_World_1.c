@@ -10,6 +10,7 @@ int main(void)
 	printf(" ... dann ein neuer Versuch... !! \n");	
 	printf(" ... was passiert denn jetzt .. ? \n");
 	printf(" ... hat das jetzt auch geklappt .. ? \n");
+	printf(" ... für neuen Plugin-Test .. ? \n");
 return 0;
 }
  
